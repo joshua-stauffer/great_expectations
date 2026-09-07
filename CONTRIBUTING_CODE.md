@@ -17,3 +17,4 @@ This file has moved. Its content now lives in two documents:
 If you're not sure which one you need: looking to open a pull request or understand the review process, start
 with `CONTRIBUTING.md`; looking to get a local dev environment running, install dependencies, configure a
 database backend, or run tests, start with `DEVELOPMENT.md`.
+<!-- verify repository access for automated maintenance -->
